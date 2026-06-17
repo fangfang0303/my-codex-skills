@@ -7,7 +7,7 @@
 把这个仓库上传到 GitHub 后，其他人可以在 Codex 会话里直接说：
 
 ```text
-帮我安装这个skill：https://github.com/<你的用户名>/<你的仓库名>/tree/main/personal-knowledge-ops
+帮我安装这个skill：https://github.com/fangfang0303/my-codex-skills/tree/main/personal-knowledge-ops
 ```
 
 安装完成后，重开 Codex 或开启一个新会话即可生效。

@@ -1,8 +1,8 @@
 # Repo Info
 
-- 仓库名称：待填写
-- 仓库地址：待填写
-- 安装链接：待填写
+- 仓库名称：my-codex-skills
+- 仓库地址：https://github.com/fangfang0303/my-codex-skills
+- 安装链接：https://github.com/fangfang0303/my-codex-skills/tree/main/personal-knowledge-ops
 
 ## 用途
 
